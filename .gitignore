@@ -1,0 +1,12 @@
+.lake/
+toolchain/
+**/__pycache__/
+*.olean
+*.ilean
+*.olean.server
+*.olean.private
+*.ir
+/check_certificate_fast
+/check_certificate_fast_sanitized
+/color_certificate_fast
+verification/*.log
